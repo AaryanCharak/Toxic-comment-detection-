@@ -3,4 +3,7 @@
 
 Dataset downloaded from Kaggle's competition regarding toxic comment detection.
 
-[Link to the dataset-](gdown --id 1VuQ-U7TtggShMeuRSA_hzC8qGDl2LRkr)
+Link to the dataset :
+```bash
+gdown --id 1VuQ-U7TtggShMeuRSA_hzC8qGDl2LRkr)
+```
