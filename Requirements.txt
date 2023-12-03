@@ -1,0 +1,3 @@
+-q pytorch-lightning
+-q bs4
+-q transformers
