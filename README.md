@@ -7,3 +7,6 @@ Link to the dataset :
 ```bash
 gdown --id 1VuQ-U7TtggShMeuRSA_hzC8qGDl2LRkr)
 ```
+
+Some snippet of the code:
+![](6.jpeg)
