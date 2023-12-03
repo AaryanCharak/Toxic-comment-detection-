@@ -3,7 +3,13 @@
 
 Dataset downloaded from Kaggle's competition regarding toxic comment detection.
 
-Link to the dataset :
+-Install the required dependencies using pip:
+
+```bash
+  pip install -r requirements.txt
+```
+
+-Link to the dataset :
 ```bash
 gdown --id 1VuQ-U7TtggShMeuRSA_hzC8qGDl2LRkr)
 ```
